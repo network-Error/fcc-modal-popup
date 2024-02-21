@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-modal-popup/static/css/main.0ee2ed6c.css",
+    "main.js": "/fcc-modal-popup/static/js/main.26974cb1.js",
+    "static/js/453.70542f27.chunk.js": "/fcc-modal-popup/static/js/453.70542f27.chunk.js",
+    "index.html": "/fcc-modal-popup/index.html",
+    "main.0ee2ed6c.css.map": "/fcc-modal-popup/static/css/main.0ee2ed6c.css.map",
+    "main.26974cb1.js.map": "/fcc-modal-popup/static/js/main.26974cb1.js.map",
+    "453.70542f27.chunk.js.map": "/fcc-modal-popup/static/js/453.70542f27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ee2ed6c.css",
+    "static/js/main.26974cb1.js"
+  ]
+}
